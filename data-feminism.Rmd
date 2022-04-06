@@ -68,6 +68,7 @@ class: center, middle
 Zero tolerance for: racism, sexism, homophobia, transphobia, ageism, ableism 
 
 Do not make generalizations -- Use "I" statements
+
 Respect one another
 
 Intent and impact *both* matter
@@ -228,7 +229,7 @@ knitr::include_graphics("images/niunamenos.jpg")
 knitr::include_graphics("images/mexico_map.png")
 ```
 
-> Maria Salguero's map of feminicides in Mexico from 2016 - present. 
+> Maria Salguero's map of femicides in Mexico from 2016 - present. 
 
 <!-- Data are crowdsourced from Salguero's reading reports and citizen reports.  -->
 
